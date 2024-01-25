@@ -136,6 +136,9 @@ h1{
 
 
 @media screen and (max-width : 900px) {
+  body{
+    background-position: center;
+  }
   #container{
     width: 100%;
     margin: 10px;
